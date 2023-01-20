@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sangam Asati @sangamasati007
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me at sangamasati007@gmail.com
 
