@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with you
-- 📫 How to reach me at sangamasati007@gmail.com
+- 📫 How to reach me at sa.sangamasati@gmail.com
 
 <!---
 sangamasati007/sangamasati007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
